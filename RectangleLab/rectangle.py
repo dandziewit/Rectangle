@@ -1,6 +1,3 @@
-"""
-Rectangle Calculator - simple console program for class lab
-"""
 
 class Rectangle:
     def __init__(self, height: int, width: int):
